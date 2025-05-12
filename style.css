@@ -1,0 +1,40 @@
+/* 1. Class selector */
+.main-heading {
+  font-family: 'Georgia', serif;
+  color: #2c3e50;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* 2. ID selector */
+#intro {
+  font-size: 18px;
+  color: #555;
+  padding: 10px;
+  margin: 20px;
+}
+
+/* 3. Element selector */
+body {
+  background-color: #f9f9f9;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Style an image */
+.styled-image {
+  border: 3px solid #3498db;
+  padding: 5px;
+  margin: 20px auto;
+  display: block;
+  width: 300px;
+}
+
+/* Box with margin, padding, and border */
+.content-box {
+  border: 2px dashed #e74c3c;
+  padding: 20px;
+  margin: 30px 0;
+  background-color: #fff;
+}
